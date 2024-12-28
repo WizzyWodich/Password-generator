@@ -1,0 +1,15 @@
+# Visual Studio
+.vscode/
+.vscode/*
+.vscode/settings.json
+src/PasswordGenerator/.vs
+
+# Setup build
+src/Setup/
+
+# Debug and Realese
+src/PasswordGenerator/bin/Debug
+src/PasswordGenerator/bin/Release
+
+# obj
+src/PasswordGenerator/obj/
