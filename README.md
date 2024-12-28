@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/yourusername/PasswordGenerator.git
+    git clone https://github.com/WizzyWodich/Password-generator
     ```
 2. Откройте файл решения в Visual Studio.
 3. Соберите проект.
